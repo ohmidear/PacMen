@@ -1,7 +1,8 @@
-# PacMan
+# PacMen
+## PacMen Exercise
+<img src= "PacMan1.png" width='300'/>
 
-### Plan's for Future Imporvement
+### Roadmap of Future Improvements
+#### add dsecription, how to run, and clean up file strucutre
 
-#### Add Image to README.md
-#### Add How to Run
-#### Add Project Description
+
